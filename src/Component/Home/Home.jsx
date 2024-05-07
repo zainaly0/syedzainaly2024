@@ -20,12 +20,12 @@ const Home = () => {
             <p>
                 My Name is Zain Aly and I am a Advocate by profession and i'm Software
                 Developer. i have done 6 months of internship in{" "}
-                <a target="_blank" href="https://www.softmindinfotech.com/">
+                <a className="links" target="_blank" href="https://www.softmindinfotech.com/">
                     Softmind infotech pvt ltd
                 </a>{" "}
                 as a Full Stack Developer(MERN). i have completed my Graduation in BCA
                 now im doing job as a full Stack developer(PHP, Laravel) developer in{" "}
-                <a target="_blank" href="https://www.adimudra.com/">
+                <a className="links" target="_blank" href="https://www.adimudra.com/">
                     Adimudra Pvt Ltd{" "}
                 </a>
             </p>

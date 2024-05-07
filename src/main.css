@@ -66,6 +66,10 @@ h1 {
   animation: profile__animate 8s ease-in-out infinite 1s;
 }
 
+.links{
+  color: rgb(171 255 156);
+}
+
 
 
 p {
