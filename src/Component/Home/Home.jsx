@@ -10,8 +10,8 @@ const Home = () => {
             style={{ backgroundColor: "black", color: "white" }}
         >
             <div className="name">
-               <h1>Syed Zain Aly</h1>
-               <h5>Advocate | Software Engineer</h5>
+                <h1>Syed Zain Aly</h1>
+                <h5>Advocate | Software Engineer</h5>
             </div>
             {/* <img src={ProfileImg} alt="" /> */}
             <div className="home__img"></div>
@@ -33,9 +33,9 @@ const Home = () => {
             <p>Now im persuing MCA(Master in Computer Application)</p>
 
             <p>
-                As well I'm Muslim Student Activist, who is always raised Muslim voice.
-                i'm against Anti islamophobia, Hindutva terrorism, and different types
-                of discrimination against Muslims by Right Wings and Majority. i also
+                As well I'm Muslim Student Activist, who is always raise Muslim voice.
+                against Anti islamophobia, Hindutva terrorism, and different types
+                of discrimination against Muslims by Right and Left Wings and Majority. i also
                 led protests against Citizenship Amendment Act.
             </p>
             <button> Link for sponsors </button>
