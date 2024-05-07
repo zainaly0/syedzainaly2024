@@ -38,7 +38,7 @@ const Home = () => {
                 of discrimination against Muslims by Right and Left Wings and Majority. i also
                 led protests against Citizenship Amendment Act.
             </p>
-            <button> Link for sponsors </button>
+            {/* <button> Link for sponsors </button> */}
 
             <p>
                 I think you are here to get to know me. Best way is to start with my
