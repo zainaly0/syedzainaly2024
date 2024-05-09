@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ 
+.header_nav{
+    padding: 18px;
+    list-style: none;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}

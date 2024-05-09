@@ -6,7 +6,6 @@
 }
 
 body {
-    background-color: #111111;
     font-family: "Victor Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 800;
@@ -59,7 +58,9 @@ h1 {
   background-size: cover;
   box-shadow: inset 0 0 0 7px rgba(172, 142, 142, 0.3);
   order: 1;
+  display: flex;
   justify-self: center;
+  align-items: center;
   width: 350px;
   height: 350px;
   /* border: 13px solid rgb(99, 96, 96); */
