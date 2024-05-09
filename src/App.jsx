@@ -8,9 +8,9 @@ function App() {
 
   return (
     <>
-     <header><Header /></header>
+     {/* <header><Header /></header> */}
     <main><Home /></main>
-    <footer><Footer /></footer>
+    {/* <footer><Footer /></footer> */}
     </>
   )
 }
