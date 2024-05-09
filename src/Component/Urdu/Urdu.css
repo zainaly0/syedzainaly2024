@@ -1,5 +1,5 @@
 .urdu__container{
-    /* display: flex; */
+    /* padding-top: 20px; */
 
 }
 
@@ -7,14 +7,43 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-bottom: 20px;
 
 }
 
+.heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading h3{
+    color: rgb(214, 214, 214);
+}
+
 .name_flag h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .flag{
     background: transparent;
-    width: 250px;
+    width: 150px;
+}
+
+@media only screen and (max-width: 765px) {
+    .heading h1{
+        font-size: 28px;
+        font-family:  'Times New Roman', serif;
+        /* font-weight: 600; */
+    }
+
+    .heading h3{
+        font-size: 13px;
+    }
+
+    .flag{
+        background: transparent;
+        width: 80px;
+    }
 }
